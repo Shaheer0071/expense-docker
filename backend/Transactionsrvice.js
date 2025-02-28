@@ -1,4 +1,3 @@
-
 const dbcreds = require('./DbConfig');
 const mysql = require('mysql2'); // Change to mysql2
 
